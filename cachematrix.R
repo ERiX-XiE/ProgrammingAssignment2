@@ -36,6 +36,7 @@ cacheSolve <- function(x, ...) {
 }
 
 
+
 ################## below are the sample codes ################## 
 
 makeVector <- function(x = numeric()) {
