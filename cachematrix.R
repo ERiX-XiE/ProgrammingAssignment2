@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-## I'm ERiX XIE, and this is my 2nd assignment for the course R Programming
+##  2nd assignment for the course R Programming
 makeCacheMatrix <- function(x = matrix()) {
   # defining the variables to be returned
   inv <- NULL
